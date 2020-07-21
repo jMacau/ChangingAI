@@ -1,0 +1,2 @@
+# ChangingAI
+Objective: Learn AI
